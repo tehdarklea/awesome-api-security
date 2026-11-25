@@ -19,6 +19,7 @@ A curated list of API security tools, resources, and best practices.
 - **[Burp Suite](https://portswigger.net/burp)** — Web vulnerability scanner & proxy
 - **[Postman](https://www.postman.com/)** — API testing and development platform
 - **[Insomnia](https://insomnia.rest/)** — Open-source API client
+- **[WebDecoy API Honeypots](https://webdecoy.com/product/endpoints/)** — Hosted endpoint decoys with optional body capture and a verified setup check
 
 ## 📊 API Monitoring
 
